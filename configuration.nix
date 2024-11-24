@@ -112,6 +112,7 @@
    libreoffice-qt6-still
    font-manager
    notes
+   blender
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
