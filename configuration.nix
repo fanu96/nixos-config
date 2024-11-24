@@ -111,6 +111,7 @@
    telegram-desktop
    libreoffice-qt6-still
    font-manager
+   notes
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
