@@ -102,7 +102,7 @@
    vscode
    foliate
    wpsoffice
-   transmission
+   transmission-qt
    git
    google-chrome
    anki-bin
