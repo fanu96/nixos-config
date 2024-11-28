@@ -113,6 +113,7 @@
    font-manager
    notes
    blender
+   mpv
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
