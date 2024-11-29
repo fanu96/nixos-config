@@ -96,6 +96,8 @@
   environment.systemPackages = with pkgs; [
   #  vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
    wget
+   python2
+   python3
    brave
    python311Packages.adblock
    python312Packages.adblock
