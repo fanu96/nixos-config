@@ -41,7 +41,7 @@
     LC_TELEPHONE = "en_US.UTF-8";
     LC_TIME = "en_US.UTF-8";
   };
-
+  
   # Enable the X11 windowing system.
   services.xserver.enable = true;
   services.xserver.displayManager.gdm.enable = true;
@@ -85,7 +85,7 @@
     ];
   };
 
-  # Install firefox.
+# Install firefox.
   programs.firefox.enable = true;
 
   # Allow unfree packages
@@ -119,6 +119,8 @@
    mpv
    audacity
    virtualbox
+   qt6.qtbase
+   vlc
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
